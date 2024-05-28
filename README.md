@@ -44,7 +44,6 @@ Após a inserção de todas as informações, o sistema exibirá a seguinte mens
 Os campos em [ ] serão preenchidos com as informações fornecidas pelo usuário.
 ```
 
-Os detalhes do desafio são encontrados no repositório [trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
 ## Ambiente de Desenvolvimento
 Este projeto foi desenvolvido e testado nas seguintes condições:
